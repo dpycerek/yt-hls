@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES	
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+TV Republika | Niułsy | https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/34/ea/cb/34eacbb5-a3ea-658c-4fd2-b12cfdf767f0/source/512x512bb.jpg | tvrepublika.pl |
